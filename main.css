@@ -148,6 +148,8 @@ img{
 }
 .sitenav__link{
     text-decoration: none;
+    color: #000;
+    white-space: nowrap;
 }
 .sitenav__link:hover{
     opacity: 0.8;
