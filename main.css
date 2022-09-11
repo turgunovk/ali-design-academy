@@ -124,6 +124,7 @@ img{
     align-items: center;
 }
 .site-header__logo{
+    flex-shrink: 0;
     margin-right: 160px;
     text-decoration: none;
 }
